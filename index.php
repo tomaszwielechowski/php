@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-        echo "To PHP";
+        echo "To jest właśnie PHP";
         ?>
     </body>
 </html>
