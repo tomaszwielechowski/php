@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "To jest właśnie PHP";
+        echo "To jest właśnie PHP. A to jest znowu PHP";
         ?>
     </body>
 </html>
