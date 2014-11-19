@@ -7,6 +7,8 @@
     <body>
         <?php
         echo "To jest właśnie PHP";
+        $zmienna1;
+        $zmienna2;
         ?>
     </body>
 </html>
