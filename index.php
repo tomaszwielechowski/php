@@ -17,7 +17,7 @@ mail($adresdo. $temat. $zawartosc. $adresod);
 ?>
 <html>
     <head>
-        <title>Części samochodowe Janka - komentarz przyjęty</title>
+        <title>Części samochodowe Tomka :) - komentarz przyjęty</title>
     </head>
     <body>
         <h1>Komentarz przyjęty</h1>
